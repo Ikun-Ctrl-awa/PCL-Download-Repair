@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-20",
+  "result": "PASS",
+  "scannedFiles": 3,
+  "sourceProjectTextFiles": 0,
+  "textFiles": 2,
+  "binaryFiles": 1,
+  "knownIdentityCategoriesChecked": [
+    "current_account",
+    "current_computer",
+    "current_profile",
+    "prior_device_identifier",
+    "prior_game_account"
+  ],
+  "findings": [],
+  "retainedPublicUpstreamContacts": [],
+  "scope": "Project source, scripts, documents and known-identity byte searches in bundled binaries; no execution or account access.",
+  "limits": "Pattern-based inspection is not a formal proof for every possible identifier. Upstream authorship, public product metadata, URLs and licenses are retained."
+}
